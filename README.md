@@ -45,7 +45,6 @@ In Aramco's Distribution Projects Division, equipment was frequently used withou
 | **Multi-Class Classification** | Detects 5 failure types: Heat Dissipation, Power, Overstrain, Tool Wear, and Random Failures |
 | **Equipment Records Database** | Save predictions with Equipment IDs and browse historical records with pagination |
 | **User-Friendly Web Interface** | Built for non-technical users with a How-to-Use guide, FAQs, and clean navigation |
-| **Class Imbalance Handling** | SMOTEENN resampling ensures minority failure types are accurately represented |
 
 ---
 
@@ -80,7 +79,6 @@ The model was selected after experimenting with SVM, Neural Networks (MLPClassif
 | **Backend** | Flask | API endpoints, model integration, data storage & retrieval |
 | **Frontend** | HTML, CSS, JavaScript | Responsive UI with predictor form, results display, and records table |
 | **Data Analysis** | Python, Google Colab | EDA, feature engineering, visualization, model experimentation |
-| **Preprocessing** | scikit-learn | SimpleImputer, RobustScaler, MinMaxScaler, SelectFromModel, PCA |
 
 ---
 

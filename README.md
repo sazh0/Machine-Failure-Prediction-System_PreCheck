@@ -13,7 +13,7 @@
   &nbsp;
 </p>
 
-A proactive AI tracking system that predicts potential **machine failures** before they occur — built during a 2-month summer training at **Aramco's Distribution Projects Division** to enhance safety, reduce downtime, and optimize maintenance in industrial operations.
+A proactive AI tracking system that predicts potential **machine failures** before they occur, built during a 2 months summer training at **Aramco's Distribution Projects Division** to enhance safety, reduce downtime, and optimize maintenance in industrial operations.
 
 </div>
 
@@ -33,9 +33,9 @@ A proactive AI tracking system that predicts potential **machine failures** befo
 
 ## 📌 About The Project
 
-In Aramco's Distribution Projects Division, equipment was frequently used without proper pre-use checks — leading to unexpected failures, safety risks, project delays, and increased maintenance costs.
+In Aramco's Distribution Projects Division, equipment was frequently used without proper preuse checks, leading to unexpected failures, safety risks, project delays, and increased maintenance costs.
 
-**PreCheck** solves this by leveraging machine learning to analyze equipment parameters (torque, tool wear time, process temperature) and predict whether a machine will fail — and what type of failure to expect — before it happens. The system was built end-to-end: from data analysis and model training to a full web interface accessible to non-technical stakeholders.
+**PreCheck** solves this by leveraging machine learning to analyze equipment parameters (torque, tool wear time, process temperature) and predict whether a machine will fail, and what type of failure to expect, before it happens. The system was built end-to-end: from data analysis and model training to a full web interface accessible to non-technical stakeholders.
 
 ### ✨ Key Features
 
